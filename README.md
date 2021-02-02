@@ -1,3 +1,40 @@
+# cs186-fall20-zwen
+
+This repository is for zwen's self-learning of Database System with the materials for CS186, UC Berkeley.
+
+
+
+# Archives
+
+| Week | Note                                                         | Discussion                                                   | Project                                                      |
+| ---- | ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| 1    | [Lec.1: Intro to Java, Static Typing](https://github.com/aviatesk/cs61b-sp18/blob/master/notes/week1.md#lec1---intro-hello-world-java)[Lec.2 Class](https://github.com/aviatesk/cs61b-sp18/blob/master/notes/week1.md#lec2---defining-and-using-classes) | [disc1](https://github.com/aviatesk/cs61b-sp18/blob/master/discs/disc01.pdf) | [hw0: Basic Java Syntaxes](https://sp18.datastructur.es/materials/hw/hw0/hw0) |
+| 2    | [Lec.3: References](https://github.com/aviatesk/cs61b-sp18/blob/master/notes/week2.md#lec3---references-and-recursion)[Lec.4: Node Based List, Nested Class, Caching, Sentinel](https://github.com/aviatesk/cs61b-sp18/blob/master/notes/week2.md#lec4---node-based-list)[Lec.5: Generics, Array](https://github.com/aviatesk/cs61b-sp18/blob/master/notes/week2.md#lec5---doubly-linked-list-and-arrays) | [disc2: Pointer, Naked Linked List (Squaring)](https://github.com/aviatesk/cs61b-sp18/blob/master/discs/disc02sol.pdf) | [proj0: Just Fun with Java](https://github.com/aviatesk/cs61b-sp18/blob/master/proj0) |
+| 3    | [Lec.6: Array-based List](https://github.com/aviatesk/cs61b-sp18/blob/master/notes/week3.md#lec6---arrays-and-lists)[Lec.7: Testing](https://github.com/aviatesk/cs61b-sp18/blob/master/notes/week3.md#lec7---testing)[Lec.8: Interface, Implementation Inheritance, Dynamic Method Selection](https://github.com/aviatesk/cs61b-sp18/blob/master/notes/week3.md#lec8---interface-and-implementation-inheritance) | [disc3: Linked List, Array](https://github.com/aviatesk/cs61b-sp18/blob/master/discs/disc03sol.pdf) | [proj1a: Doubly-linked List, Doubly-linked Array](https://github.com/aviatesk/cs61b-sp18/blob/master/proj1a) |
+| 4    | [Lec.9: Implementation Inheritance, Encapsulation, Type Checking, Higher Order](https://github.com/aviatesk/cs61b-sp18/blob/master/notes/week4.md#lec9---more-inheritance)[Lec.10: Subtype Polymorphism](https://github.com/aviatesk/cs61b-sp18/blob/master/notes/week4.md#lec10---subtype-polymorphism-vs-hofs)[Lec.11: Libraries](https://github.com/aviatesk/cs61b-sp18/blob/master/notes/week4.md#lec11---libraries) | [disc4: Inheritance](https://github.com/aviatesk/cs61b-sp18/blob/master/discs/disc04sol.pdf) | [proj1b: Test Driven Development](https://github.com/aviatesk/cs61b-sp18/blob/master/proj1b)[proj1glod: Randomized Tests](https://github.com/aviatesk/cs61b-sp18/blob/master/proj1gold) |
+| 5    | [Lec.13: Conversion, Immutability, Generics](https://github.com/aviatesk/cs61b-sp18/blob/master/notes/week5.md#lec13---conversion-immutability-generics)[Lec.14: Exception, `Iterator`](https://github.com/aviatesk/cs61b-sp18/blob/master/notes/week5.md#lec14---exception-iteration) | [disc5: ADTs](https://github.com/aviatesk/cs61b-sp18/blob/master/discs/disc05sol.pdf) | [hw1: Package, Interface, Generics, Exception, Iteration](https://github.com/aviatesk/cs61b-sp18/blob/master/hw1) |
+| 6    | [Lec.15: Package, Access Control, `Object` method](https://github.com/aviatesk/cs61b-sp18/blob/master/notes/week6.md#lec15---package-access-control-object-method)Lec.16: Programming Efficiency, API design, Views (No note but the slides available at [link](https://docs.google.com/presentation/d/1__Akx5EBZe7sMyCYBN1uToKkhrRuxi0mtxSj1DjU51M/edit?usp=sharing)) | [disc6: Access Control, Designing API](https://github.com/aviatesk/cs61b-sp18/blob/master/discs/disc06sol.pdf) | [proj2 phase1: Large scale programming, Generative program using pseudo random number](https://github.com/aviatesk/cs61b-sp18/blob/master/proj2/byog/Core) |
+| 7    | [Lec.17: Introduction to Asymptotic Analysis, Big Theta](https://github.com/aviatesk/cs61b-sp18/blob/master/notes/week7.md#lec17---introduction-to-asymptotic-analysis)[Lec.18: 5 Basic Case Studies of Asymptotic Analysis](https://github.com/aviatesk/cs61b-sp18/blob/master/notes/week7.md#lec18---analysis-of-algorithms)[Lec.19: Big O, Big Omega, Amortized Analysis](https://github.com/aviatesk/cs61b-sp18/blob/master/notes/week7.md#lec19---big-o-big-omega-amortized-runtime) | [disc7: Asymptotic Analysis Examples, Using ADTs](https://github.com/aviatesk/cs61b-sp18/blob/master/discs/disc07sol.pdf) | [proj2 phase2: UI Design, Serialization](https://github.com/aviatesk/cs61b-sp18/blob/master/proj2) |
+| 8    | [Lec.20: Disjoint Set](https://github.com/aviatesk/cs61b-sp18/blob/master/notes/week8.md#lec20---disjoint-sets)[Lec.21: Binary Search Tree Basics](https://github.com/aviatesk/cs61b-sp18/blob/master/notes/week8.md#lec21---binary-search-tree)[Lec.22: Tree Rotation, B-Tree, LLRB](https://github.com/aviatesk/cs61b-sp18/blob/master/notes/week8.md#lec22---balanced-search-tree) | [disc8: AA of Pseudo Code, Mathematical Discussion of AA](https://github.com/aviatesk/cs61b-sp18/blob/master/discs/disc08sol.pdf) | [hw2: Percolation Simulation with Disjoint Set](https://github.com/aviatesk/cs61b-sp18/blob/master/hw2/hw2) |
+| 9    | [Lec.23: Hashing](https://github.com/aviatesk/cs61b-sp18/blob/master/notes/week9.md#lec23---hashing)[Lec.24: Priority Queue, Heap, Data Structure Summary](https://github.com/aviatesk/cs61b-sp18/blob/master/notes/week9.md#lec24---priority-queues-and-heaps)[Lec.25: Tree Traversal, Pruning, Quadtree](https://github.com/aviatesk/cs61b-sp18/blob/master/notes/week9.md#lec25---advanced-trees) | [disc9: BST Validation, 2-3 Tree Review, Hashing](https://github.com/aviatesk/cs61b-sp18/blob/master/discs/disc09sol.pdf) | [hw3: Hash Function](https://github.com/aviatesk/cs61b-sp18/blob/master/hw3/hw3/hash) |
+| 10   | [Lec.27: Graph Introduction](https://github.com/aviatesk/cs61b-sp18/blob/master/notes/week10.md#lec27---introduction-to-graph)[Lec.28: DFS (including Topological Sort), BFS](https://github.com/aviatesk/cs61b-sp18/blob/master/notes/week10.md#lec28---graph-traversal) | [disc10: Easy Quiz(Heap, Tree-Traversal, Quadtree)](https://github.com/aviatesk/cs61b-sp18/blob/master/discs/disc10sol.pdf) | N/A                                                          |
+| 11   | Lec.29Lec.30Lec.31                                           | [disc11: Graph Algorithm Design](https://github.com/aviatesk/cs61b-sp18/blob/master/discs/disc11.pdf) | [hw4: A* Implementations](https://github.com/aviatesk/cs61b-sp18/blob/master/hw4/hw4/puzzle) (**Optional TODO**: Implementing [`neighbors()`](https://github.com/aviatesk/cs61b-sp18/blob/master/hw4/hw4/puzzle/Word.java#L88) method in [Word.java](https://github.com/aviatesk/cs61b-sp18/blob/master/hw4/hw4/puzzle/Word.java), which works in constant time, remaining) |
+| 12   | [Lec.32: Basic Sorts](https://github.com/aviatesk/cs61b-sp18/blob/master/notes/week12.md#lec32---basic-sorts)[Lec.33: Quick Sort](https://github.com/aviatesk/cs61b-sp18/blob/master/notes/week12.md#lec33---quick-sort)[Lec.34: Sort Stability, Shuffling](https://github.com/aviatesk/cs61b-sp18/blob/master/notes/week12.md#lec34---sort-stability-shuffling) | disc12                                                       | N/A                                                          |
+
+## 
+
+
+
+
+
+
+
+
+
+
+
+
+
 # MOOCbase
 
 ![The official unofficial mascot of the class projects](images/derpydb-small.jpg)
